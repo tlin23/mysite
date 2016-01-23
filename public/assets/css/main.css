@@ -1,0 +1,70 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.my-site {
+	height: 100%;
+	width : 100%;
+}
+
+.jumbo-content {
+	height: 100%;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+.jumbo-text {
+	
+}
+
+h1, {
+	text-align: center;
+}
+
+p, Image {
+	font-size: 150%;
+	font-family: gotham;
+	text-align: left;
+	float:left;
+}
+
+.summary {
+	padding: 15px;
+	float: left;
+	text-align: left;
+}
+
+.jumbo-button {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.pdf-wrapper {
+	height: 100%;
+	width : 100%;
+}
+
+.site-content {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cover-wrapper {
+	width: 100%;
+	height: 100%;
+}
+
+.cover-wrapper .cover {
+	height: 100%;
+	width: 100%;
+}
+
+.navbar-wrapper {
+	top: 0px;
+	width: 100%;
+	position: absolute;
+}
